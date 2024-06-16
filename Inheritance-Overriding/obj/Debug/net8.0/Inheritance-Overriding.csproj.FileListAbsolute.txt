@@ -1,0 +1,15 @@
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/bin/Debug/net8.0/Inheritance-Overriding
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/bin/Debug/net8.0/Inheritance-Overriding.deps.json
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/bin/Debug/net8.0/Inheritance-Overriding.runtimeconfig.json
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/bin/Debug/net8.0/Inheritance-Overriding.dll
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/bin/Debug/net8.0/Inheritance-Overriding.pdb
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.AssemblyInfoInputs.cache
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.AssemblyInfo.cs
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.csproj.CoreCompileInputs.cache
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.sourcelink.json
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.dll
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/refint/Inheritance-Overriding.dll
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.pdb
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/Inheritance-Overriding.genruntimeconfig.cache
+/Users/carltonakussah/Desktop/Dcit318-assignment2/dcit318-assignment2-10968138/Inheritance-Overriding/obj/Debug/net8.0/ref/Inheritance-Overriding.dll
